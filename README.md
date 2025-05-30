@@ -1,4 +1,6 @@
 # StudySum – AI Lecture Summarizer (Frontend Only)
+⚠️ Note: This version uses a placeholder API key.  
+To test with real AI summaries, replace the key in `index.html` with your own from [OpenRouter.ai](https://openrouter.ai/settings/keys) 
 
 A student-first tool that turns lecture transcripts into clean study notes using AI.
 
